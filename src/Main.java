@@ -34,7 +34,7 @@ public class Main {
 		System.out.println("\nb)");
 		double[] tabDbl = {1.2, 2.34, 3.456, 4.5678, 5.678910};
 		int j = 0;
-		while (j < tabInt.length) {
+		while (j < tabDbl.length) {
 			System.out.println(tabDbl[j]);
 			j++;
 		}
